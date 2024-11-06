@@ -1,0 +1,1109 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-10-04T21:47:25.767Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Анджелина Джоли",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-10-04T22:25:41.377Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Джанго-освобожденный",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-10-11T13:05:29.113Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Как выбрать первый язык программирования?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-10-11T13:05:46.523Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Облачные технологии: будущее или уже реальность?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-10-11T13:06:08.459Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Машинное обучение для начинающих: как это работает?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-10-11T13:06:29.163Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Почему важна кибербезопасность и как защитить свои данные?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-10-11T13:06:40.445Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Что такое DevOps и почему это важно для бизнеса?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-10-11T13:07:09.946Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Как начать карьеру в IT без опыта работы?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-10-11T13:07:22.531Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Искусственный интеллект: угрозы и возможности для общества",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-10-11T13:07:38.974Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Что такое блокчейн и как он меняет финансовую систему?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-10-11T13:07:53.537Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Популярные инструменты для веб-разработки в 2024 году",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-10-11T13:09:00.871Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Как автоматизация тестирования улучшает качество ПО?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-10-11T13:09:15.143Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Анджелина Джоли",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-10-11T13:09:20.344Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Джанго-освобожденный",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-10-19T19:42:22.622Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Go",
+    "action_flag": 2,
+    "change_message": "[{\"deleted\": {\"name\": \"tagged item\", \"object\": \"\\u041a\\u0430\\u043a \\u0432\\u044b\\u0431\\u0440\\u0430\\u0442\\u044c \\u043f\\u0435\\u0440\\u0432\\u044b\\u0439 \\u044f\\u0437\\u044b\\u043a \\u043f\\u0440\\u043e\\u0433\\u0440\\u0430\\u043c\\u043c\\u0438\\u0440\\u043e\\u0432\\u0430\\u043d\\u0438\\u044f? tagged with Go\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-10-22T10:54:56.139Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Как начать карьеру в IT без опыта работы?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-10-28T11:02:33.475Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-10-28T14:15:29.963Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add commet",
+    "content_type": 8,
+    "codename": "add_commet"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change commet",
+    "content_type": 8,
+    "codename": "change_commet"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete commet",
+    "content_type": 8,
+    "codename": "delete_commet"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view commet",
+    "content_type": 8,
+    "codename": "view_commet"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$tjornZdH2Wh00jwjrWc3Hp$ZAu6bkzp28IiBiAoy9Gh7cssP8x7OdeknBOWbI+WYDQ=",
+    "last_login": "2024-10-28T14:14:12.649Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-10-04T21:30:08.737Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jk88egkdzu0jco97eytshcpqa1rknvda",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllaJ_4sJT1nsHbtNQ4gR4qTCnF3iJQC2jcz76UibWuNW5clTlmdFajT78aUHtJ2kO_UbrNOc1uXifWu6IN2fZ2zPC-H-3dQqddvjYJQLItFMhYExyBswNAQEgpjTuAs2cJMUnx2yQwSxuIgoxf0xqv3B_sZOIQ:1t2E4b:e2zT_z9ObDXIZ6Izbhmhx1aLO9C2thh645b4tyUIUKU",
+    "expire_date": "2024-11-02T18:21:09.154Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "l52i23uoweir16m0z83qp46mue138ht5",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllaJ_4sJT1nsHbtNQ4gR4qTCnF3iJQC2jcz76UibWuNW5clTlmdFajT78aUHtJ2kO_UbrNOc1uXifWu6IN2fZ2zPC-H-3dQqddvjYJQLItFMhYExyBswNAQEgpjTuAs2cJMUnx2yQwSxuIgoxf0xqv3B_sZOIQ:1swpub:uKXQHGFPS5dI7kyIEdJwXoO3oOCFz_cWu9cqGt0gzWg",
+    "expire_date": "2024-10-18T21:32:33.729Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "quaiub9kdbigh60dhu6n5z51rxvltmuh",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllaJ_4sJT1nsHbtNQ4gR4qTCnF3iJQC2jcz76UibWuNW5clTlmdFajT78aUHtJ2kO_UbrNOc1uXifWu6IN2fZ2zPC-H-3dQqddvjYJQLItFMhYExyBswNAQEgpjTuAs2cJMUnx2yQwSxuIgoxf0xqv3B_sZOIQ:1t5QVY:jECvFtNl41DH0cczHXjttngBJZ5mGUuqgTsyBI1oSzY",
+    "expire_date": "2024-11-11T14:14:12.658Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Анджелина Джоли",
+    "slug": "angelina_goly",
+    "author": 1,
+    "body": "Анджелина Джоли девочка сосочка",
+    "publish": "2024-10-04T21:45:27Z",
+    "created": "2024-10-04T21:47:25.764Z",
+    "updated": "2024-10-11T13:09:15.141Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Джанго-освобожденный",
+    "slug": "dzhango-osvobozhdennyj",
+    "author": 1,
+    "body": "I wanna duy beach",
+    "publish": "2024-10-04T22:15:31Z",
+    "created": "2024-10-04T22:25:41.373Z",
+    "updated": "2024-10-11T13:09:20.325Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Another post",
+    "slug": "anoter-post",
+    "author": 1,
+    "body": "Post body.",
+    "publish": "2024-10-05T09:17:53.929Z",
+    "created": "2024-10-05T09:21:46.343Z",
+    "updated": "2024-10-05T09:21:46.343Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Как выбрать первый язык программирования?",
+    "slug": "kak-vybrat-pervyj-yazyk-programmirovaniya",
+    "author": 1,
+    "body": "Выбор первого языка программирования — один из важнейших шагов для новичков в IT. Популярные языки, такие как Python, JavaScript, Java и C++, имеют свои особенности. Python отлично подходит для начинающих благодаря простоте синтаксиса и широкому спектру библиотек. JavaScript — выбор тех, кто интересуется веб-разработкой, он позволяет создавать интерактивные сайты. Java полезен в корпоративной среде, особенно для разработки больших приложений. C++ выбирают для разработки системного ПО и игр. Важно учитывать свои цели: хотите ли вы разрабатывать веб-приложения, игры или погружаться в науку о данных?",
+    "publish": "2024-10-11T13:00:11Z",
+    "created": "2024-10-11T13:05:29.111Z",
+    "updated": "2024-10-11T13:05:29.111Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Облачные технологии: будущее или уже реальность?",
+    "slug": "oblachnye-tehnologii-budushee-ili-uzhe-realnost",
+    "author": 1,
+    "body": "Облачные технологии уже давно стали неотъемлемой частью IT-инфраструктуры. Благодаря облачным сервисам, компании могут хранить и обрабатывать огромные объемы данных без необходимости приобретать дорогое оборудование. Amazon Web Services, Google Cloud и Microsoft Azure — это три крупнейших провайдера облачных решений. Преимущества облаков очевидны: гибкость, масштабируемость и экономия. Однако не стоит забывать и про риски, такие как безопасность данных и зависимость от провайдера. Несмотря на это, большинство компаний переходят на облачные технологии, ведь они дают мощный толчок для развития бизнеса.",
+    "publish": "2024-10-11T13:05:29Z",
+    "created": "2024-10-11T13:05:46.522Z",
+    "updated": "2024-10-11T13:05:46.522Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Машинное обучение для начинающих: как это работает?",
+    "slug": "mashinnoe-obuchenie-dlya-nachinayushih-kak-eto-rabotaet",
+    "author": 1,
+    "body": "Машинное обучение — это технология, которая позволяет компьютерам учиться на данных и принимать решения без явного программирования. Основные шаги включают сбор данных, выбор модели и обучение модели на данных. Примеры машинного обучения можно найти повсюду: от рекомендаций на YouTube до автономных автомобилей. Для начинающих важно понимать такие термины, как обучающие и тестовые выборки, алгоритмы обучения, и оценка точности модели. Python является одним из самых популярных языков для работы с машинным обучением благодаря библиотекам, таким как TensorFlow и Scikit-learn.",
+    "publish": "2024-10-11T13:05:46Z",
+    "created": "2024-10-11T13:06:08.458Z",
+    "updated": "2024-10-11T13:06:08.458Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Почему важна кибербезопасность и как защитить свои данные?",
+    "slug": "pochemu-vazhna-kiberbezopasnost-i-kak-zashitit-svoi-dannye",
+    "author": 1,
+    "body": "В современном мире цифровые данные играют огромную роль, и их защита становится приоритетом. Хакерские атаки, утечки данных и вредоносные программы могут привести к серьезным последствиям. Одним из первых шагов для обеспечения безопасности является использование сложных и уникальных паролей. Двухфакторная аутентификация также значительно снижает риски несанкционированного доступа. Регулярные обновления программного обеспечения помогают устранить уязвимости. Важно понимать, что защита данных — это непрерывный процесс, который требует осознанного подхода и обучения.",
+    "publish": "2024-10-11T13:06:08Z",
+    "created": "2024-10-11T13:06:29.162Z",
+    "updated": "2024-10-11T13:06:29.162Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Что такое DevOps и почему это важно для бизнеса?",
+    "slug": "chto-takoe-devops-i-pochemu-eto-vazhno-dlya-biznesa",
+    "author": 1,
+    "body": "DevOps — это сочетание культурных практик, инструментов и методов, направленных на улучшение процессов разработки и доставки программного обеспечения. Внедрение DevOps позволяет сократить время на разработку, тестирование и развертывание приложений. Один из ключевых аспектов DevOps — это автоматизация, которая помогает минимизировать ошибки и ускорить процессы. Такие инструменты, как Jenkins, Docker и Kubernetes, играют важную роль в автоматизации. Компании, которые применяют DevOps, получают конкурентное преимущество, так как могут быстрее реагировать на изменения рынка.",
+    "publish": "2024-10-11T13:06:29Z",
+    "created": "2024-10-11T13:06:40.418Z",
+    "updated": "2024-10-11T13:06:40.418Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Как начать карьеру в IT без опыта работы?",
+    "slug": "kak-nachat-kareru-v-it-bez-opyta-raboty",
+    "author": 1,
+    "body": "Многие люди интересуются, как попасть в IT-индустрию, если у них нет технического образования или опыта. Первым шагом может стать обучение основам программирования, таким как HTML, CSS и Python. Онлайн-курсы и платформы, такие как Coursera и Udemy, предлагают доступные и структурированные программы обучения. Кроме того, стоит начать с небольших проектов, чтобы набраться опыта и создать портфолио. Участие в хакатонах и open-source проектах также может стать отличным способом получить практические навыки. Самое главное — не бояться начинать с малого и постоянно учиться новому.",
+    "publish": "2024-10-11T13:06:40Z",
+    "created": "2024-10-11T13:07:09.945Z",
+    "updated": "2024-10-22T10:54:56.127Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Искусственный интеллект: угрозы и возможности для общества",
+    "slug": "iskusstvennyj-intellekt-ugrozy-i-vozmozhnosti-dlya-obshestva",
+    "author": 1,
+    "body": "Искусственный интеллект (ИИ) уже активно применяется в различных областях: от медицины до маркетинга. Он позволяет автоматизировать рутинные задачи и помогает компаниям принимать более обоснованные решения на основе анализа данных. Однако с развитием ИИ возникает и множество вопросов. Будет ли ИИ угрожать рабочим местам? Как обеспечить этическое использование технологий? Уже сейчас многие эксперты обсуждают возможные риски, связанные с созданием автономных систем. Важно найти баланс между развитием ИИ и его безопасным использованием, чтобы он приносил пользу, а не вред.",
+    "publish": "2024-10-11T13:07:09Z",
+    "created": "2024-10-11T13:07:22.526Z",
+    "updated": "2024-10-11T13:07:22.526Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Что такое блокчейн и как он меняет финансовую систему?",
+    "slug": "chto-takoe-blokchejn-i-kak-on-menyaet-finansovuyu-sistemu",
+    "author": 1,
+    "body": "Блокчейн — это распределенная база данных, которая позволяет вести безопасные транзакции без посредников. Самым известным примером использования блокчейна является биткойн и другие криптовалюты. Но технологии блокчейна применимы не только в финансовой сфере: они могут использоваться для создания прозрачных систем голосования, управления цепочками поставок и защиты интеллектуальной собственности. Блокчейн обеспечивает высокую степень безопасности благодаря децентрализованной структуре, однако его внедрение также связано с рядом технических и юридических вопросов.",
+    "publish": "2024-10-11T13:07:22Z",
+    "created": "2024-10-11T13:07:38.973Z",
+    "updated": "2024-10-11T13:07:38.973Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "Популярные инструменты для веб-разработки в 2024 году",
+    "slug": "populyarnye-instrumenty-dlya-veb-razrabotki-v-2024-godu",
+    "author": 1,
+    "body": "Веб-разработка стремительно развивается, и каждый год появляются новые инструменты и фреймворки, которые упрощают работу программистов. В 2024 году наибольшую популярность сохраняют такие фреймворки, как React и Vue.js для фронтенд-разработки. Для серверной части многие выбирают Node.js и Django. Что касается стилей, то Tailwind CSS становится все более популярным благодаря своей гибкости и минимализму. Также не стоит забывать про системы управления контентом, такие как WordPress и Strapi, которые делают процесс создания сайтов еще проще.",
+    "publish": "2024-10-11T13:07:39Z",
+    "created": "2024-10-11T13:07:53.533Z",
+    "updated": "2024-10-11T13:07:53.533Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 13,
+  "fields": {
+    "title": "Как автоматизация тестирования улучшает качество ПО?",
+    "slug": "kak-avtomatizaciya-testirovaniya-uluchshaet-kachestvo-po",
+    "author": 1,
+    "body": "Автоматизация тестирования становится неотъемлемой частью процесса разработки программного обеспечения. В отличие от ручного тестирования, автоматизация позволяет быстрее и эффективнее проверять корректность работы приложения. Используя такие инструменты, как Selenium, JUnit или TestComplete, разработчики могут создавать скрипты для повторяющихся тестов, которые проверяют, как приложение ведет себя в различных сценариях. Это особенно полезно для регрессионного тестирования, когда нужно убедиться, что новые изменения не ломают уже существующий функционал. Помимо экономии времени, автоматизация уменьшает вероятность человеческих ошибок и повышает общую стабильность продукта. Однако внедрение автоматизированного тестирования требует начальных затрат времени и ресурсов на настройку и обучение, что иногда отпугивает небольшие команды. В долгосрочной перспективе это окупается за счет снижения стоимости тестирования и повышения качества продукта.",
+    "publish": "2024-10-11T13:07:53Z",
+    "created": "2024-10-11T13:09:00.870Z",
+    "updated": "2024-10-11T13:09:00.870Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 14,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n\r\n* Two\r\n\r\n* Three\r\n\r\n \r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/)",
+    "publish": "2024-10-28T11:01:44Z",
+    "created": "2024-10-28T11:02:33.470Z",
+    "updated": "2024-10-28T11:02:33.470Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 13,
+  "fields": {
+    "post": 4,
+    "name": "Dmitrii Tabachnyi",
+    "email": "dmitriitabachnyi98@gmail.com",
+    "body": "Test comment.",
+    "created": "2024-10-27T21:19:32.013Z",
+    "updated": "2024-10-27T21:19:32.013Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 14,
+  "fields": {
+    "post": 4,
+    "name": "Dmitrii Tabachnyi",
+    "email": "dmitriitabachnyi98@gmail.com",
+    "body": "Test comment2",
+    "created": "2024-10-27T21:19:51.955Z",
+    "updated": "2024-10-27T21:19:51.955Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 15,
+  "fields": {
+    "post": 13,
+    "name": "Dmitrii Tabachnyi",
+    "email": "dmitriitabachnyi98@gmail.com",
+    "body": "Test comment1",
+    "created": "2024-10-27T21:20:03.598Z",
+    "updated": "2024-10-27T21:20:03.598Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "Java",
+    "slug": "java"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "Go",
+    "slug": "go"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 14
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
